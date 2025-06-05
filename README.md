@@ -1,4 +1,4 @@
-# Scalable URL Shortener with Analytics
+# Scalable URL Shortener with Redis Caching
 
 A robust URL shortening service built with **Spring Boot**, **MySQL**, and **Redis**, featuring click analytics, expiration handling, and a clean web UI using **Thymeleaf**. Designed with scalability, performance, and extensibility in mind.
 
